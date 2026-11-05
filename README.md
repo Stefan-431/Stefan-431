@@ -10,11 +10,11 @@ I enjoy working with data, experimenting with AI technologies, developing applic
 
 ## 🎓 Education
 
-🎓 **Bachelor of Technology (B.Tech) — Computer Systems Engineering**
+🎓 **Bachelor of Technology (B.Tech) — Computer Science Engineering (Data Science)**
 
-🏛️ Mahatma Gandhi University  
-📍 Nalgonda, Telangana  
-📅 April 2022 – April 2026
+🏛️ St. Vincent Pallotti College of Engg. & Tech.  
+📍 Nagpur, Maharashtra  
+📅 May 2022 – May 2026
 
 ---
 
@@ -76,12 +76,7 @@ I enjoy working with data, experimenting with AI technologies, developing applic
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stefan-431&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan-431&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Stefan-431&theme=tokyonight&hide_border=true" />
