@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Stefan Joseph!
 
-### 💻 Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Tech Explorer
+### 💻 Full Stack AI Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Tech Explorer
 
 I'm a technology enthusiast passionate about building intelligent solutions and exploring the possibilities of **Artificial Intelligence, Machine Learning, and Software Development**.
 
@@ -61,8 +61,8 @@ I enjoy working with data, experimenting with AI technologies, developing applic
 
 I'm always interested in connecting with fellow developers, exploring new technologies, and collaborating on innovative ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/stefan-joseph-825317259)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Stefan-431/Stefan-431)
 
 ---
 
