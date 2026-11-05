@@ -74,15 +74,6 @@ I enjoy working with data, experimenting with AI technologies, developing applic
 - 🏗️ Backend development and system design
 - 📊 Machine Learning and Data Science
 
----
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stefan-431&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Let's Connect!
 
