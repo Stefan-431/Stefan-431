@@ -70,7 +70,7 @@ I enjoy working with data, experimenting with AI technologies, developing applic
 
 I'm always interested in connecting with fellow developers, exploring new technologies, and collaborating on innovative ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/stefan-joseph-825317259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stefan-joseph-825317259)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Stefan-431/Stefan-431)
 
 ---
